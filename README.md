@@ -64,8 +64,7 @@ A.S. Computer Science
 ## 🌎 Languages
 
 - Spanish — Native
-- English — Professional
-- Portuguese — Conversational
+- English — Conversational
 
 ## 🎯 Currently Focused On
 
